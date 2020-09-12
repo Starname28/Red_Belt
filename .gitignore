@@ -1,7 +1,6 @@
 */.vs
+*/x64
 */Debug
-*/*/.vs
-*/*/Debug
 */*.sln
 */*.vcxproj
 */*.vcxproj.filters
